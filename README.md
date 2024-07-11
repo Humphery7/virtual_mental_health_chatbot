@@ -71,7 +71,7 @@ To use this project, follow these steps:
 We welcome contributions to this project! If you have any suggestions, bug reports, or improvements, please open an issue or submit a pull request.
 
 ## License
-This project is open sourced.
+This project is open source.
 
 ## Contact Information
 **linkedin** : https://www.linkedin.com/in/humpheryotu/, **Email** : humpheryufuoma@gmail.com
