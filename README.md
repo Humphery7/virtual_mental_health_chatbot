@@ -11,7 +11,7 @@
 - [License](#license)
 
 ## Introduction
-Virtual Therapist Health GPT is an innovative project aimed at creating a virtual therapist using natural language processing (NLP) techniques. The model leverages a BERT encoder attached to an LSTM decoder to understand and generate therapeutic conversations, helping users manage their mental health effectively.
+Virtual Mental Health Chatbot Health GPT is an innovative project aimed at creating a virtual caretaker(Not for purposes of replacing an actual therapist, but to serve as a first aid) using natural language processing (NLP) techniques. The model leverages a BERT encoder attached to an LSTM decoder to understand and generate therapeutic conversations, helping users manage their mental health effectively.
 
 ## Data Collection
 The data used in this project has been collected from various sources, including:
