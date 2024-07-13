@@ -1,4 +1,4 @@
-# virtual_therapist_health_gpt
+# virtual_mental_health_chatbot
 
 ## Table of Contents
 - [Introduction](#introduction)
